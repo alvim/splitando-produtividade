@@ -32,7 +32,7 @@ Sempre que vejo a forma de trabalho de um colega descubro alguma coisa legal.
 
 ---
 
-<small>Algumas vezes deixo de praticar bons hábitos, porque não tenho motivação suficiente ou o atrito é grande demais.</small>
+<small>*Algumas vezes deixo de praticar bons hábitos, porque não tenho motivação suficiente ou o atrito é grande demais.*</small>
 
 ![+ Motivação - Fricção](https://www.e-reading.club/illustrations/1041/1041207-_3.jpg)
 
@@ -46,7 +46,8 @@ Sempre que vejo a forma de trabalho de um colega descubro alguma coisa legal.
 
 ## Hábitos
 
-#### Less is more <small>(*menas é mais, em inglês*)</small> 💃
+#### Less is more
+<small>(*menas é mais, em inglês*)</small>
 
 ---
 
