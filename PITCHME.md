@@ -1,4 +1,4 @@
-## Splitando produtividade
+## Splitando produtividade <span class="tiny"></span>
 
 *Um título escroto dado arbitrariamente pelo Farsette sem me consultar* ❤️
 
