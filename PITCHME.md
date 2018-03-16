@@ -1,10 +1,10 @@
-# Splitando produtividade
+## Splitando produtividade
 
 *Um título escroto dado arbitrariamente pelo Farsette sem me consultar* ❤️
 
 ---
 
-## "Se eu tivesse seis horas para derrubar uma árvore, passaria as primeiras quatro horas afiando o machado."
+#### "Se eu tivesse seis horas para derrubar uma árvore, passaria as primeiras quatro horas afiando o machado."
 
 ---
 
@@ -29,6 +29,19 @@ Sempre que vejo a forma de trabalho de um colega descubro alguma coisa legal.
 * VS Code
     * Extensões
 * Postman
+
+---
+
+```
+alias gcam
+alias ggpush
+alias ggpull
+alias
+alias
+```
+@[1-3](Os alias de Git te incentivam a commitar mais, tornando o processo fácil.)
+@[4](Exemplo.)
+@[5](Outro exemplo.)
 
 ---
 

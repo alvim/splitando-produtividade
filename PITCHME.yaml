@@ -12,5 +12,4 @@ background-size : cover
 background-opacity : 80
 highlight : atom-one-light
 transition : fade
-# published : true
-# footnote : "GitPitch Pro [ Scales ] Presentation Template"
+footnote : none
